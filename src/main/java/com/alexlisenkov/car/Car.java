@@ -1,4 +1,4 @@
-package com.alexlisenkov;
+package com.alexlisenkov.car;
 
 public class Car {
     String color;

@@ -1,4 +1,6 @@
-package com.alexlisenkov;
+package com.alexlisenkov.car;
+
+import com.alexlisenkov.car.Car;
 
 public class Main {
 
