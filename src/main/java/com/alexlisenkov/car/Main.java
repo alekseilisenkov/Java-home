@@ -1,9 +1,6 @@
 package com.alexlisenkov.car;
 
-import com.alexlisenkov.car.Car;
-
 public class Main {
-
 
     public static void main(String[] args) {
         Car nissan = new Car("green", 180, 12, "almera", false);
@@ -18,7 +15,6 @@ public class Main {
         toyota.checkForBeaty();
         avtovas.checkForBeaty();
 
-
         nissan.speedLimit(200);
         toyota.speedLimit(200);
         avtovas.speedLimit(200);
@@ -29,9 +25,5 @@ public class Main {
         nissan.checkForFuel(12);
         toyota.checkForFuel(15);
         avtovas.checkForFuel(9);
-
-
     }
-
 }
-
