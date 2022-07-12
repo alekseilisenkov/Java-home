@@ -1,0 +1,89 @@
+[33mcommit 7b663e8a8416559d6ea1f23da026fc7be08d3665[m[33m ([m[1;36mHEAD -> [m[1;32mtest1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: alekseilisenkov <alexlisenkov92@mail.ru>
+Date:   Tue Jun 7 12:54:10 2022 +0300
+
+    refactor README
+
+[33mcommit 6d3a197904acaaacecd361d0417f3ab403de8650[m
+Author: alekseilisenkov <alexlisenkov92@mail.ru>
+Date:   Tue Jun 7 12:50:54 2022 +0300
+
+    added README and refactor of structure
+
+[33mcommit 167a640ca459663f327f60d5debe37d7421cdd8e[m
+Author: alekseilisenkov <alexlisenkov92@mail.ru>
+Date:   Tue Jun 7 07:59:49 2022 +0300
+
+    added array's and list's
+
+[33mcommit 911c799cbe82c338fb94ce9a62d0271ef5066869[m
+Author: alekseilisenkov <alexlisenkov92@mail.ru>
+Date:   Mon Jun 6 19:31:31 2022 +0300
+
+    refactor of class car and main
+
+[33mcommit f76426d6ac7bc67560bea47e4856ebe0297b0004[m
+Author: Alexey <97833284+alekseilisenkov@users.noreply.github.com>
+Date:   Sat May 14 10:40:22 2022 +0300
+
+    delete other directory 1.1
+
+[33mcommit 1a45081be7263ce6a24351a5327100183fa7fd8b[m
+Author: Alexey <97833284+alekseilisenkov@users.noreply.github.com>
+Date:   Sat May 14 10:39:59 2022 +0300
+
+    delete other directory
+
+[33mcommit 31adc442e774bd7dfe957cae7aa4c77912b5d722[m
+Author: Alexey <97833284+alekseilisenkov@users.noreply.github.com>
+Date:   Sat May 14 10:39:45 2022 +0300
+
+    delete ditectory
+
+[33mcommit 6a34d6bfc1e3d9ae92366be07c640a96387f22e7[m
+Author: Alexey <97833284+alekseilisenkov@users.noreply.github.com>
+Date:   Sat May 14 10:39:25 2022 +0300
+
+    delete trash 1.1
+
+[33mcommit 7c097e197ebbec3940549d77829c1f985ce4c8fd[m
+Author: Alexey <97833284+alekseilisenkov@users.noreply.github.com>
+Date:   Sat May 14 10:39:10 2022 +0300
+
+    delete trash 1.0
+
+[33mcommit 7b29a5bc9ffd8eba499e9d53544ffc36a5709e01[m
+Author: Alexey <97833284+alekseilisenkov@users.noreply.github.com>
+Date:   Sat May 14 10:38:35 2022 +0300
+
+    update gitignore
+
+[33mcommit e83acfae3e87bc55549cb30df042145b39ef3cd6[m
+Author: Alexey <97833284+alekseilisenkov@users.noreply.github.com>
+Date:   Sat May 14 10:38:05 2022 +0300
+
+    add gitignore
+
+[33mcommit 596b5d8d7f297db6fefec57dee7b872446ff34d1[m
+Author: Alexey <97833284+alekseilisenkov@users.noreply.github.com>
+Date:   Sat May 14 10:36:50 2022 +0300
+
+    delete trash
+
+[33mcommit 98c0dc4c7ad10a94072dc1100a18562f7857c454[m
+Author: alekseilisenkov <alexlisenkov92@mail.ru>
+Date:   Tue Mar 8 23:15:14 2022 +0300
+
+    Final commit
+
+[33mcommit 8c07513ae6ede31649b1a84c86e1e4f423f24952[m
+Author: alekseilisenkov <alexlisenkov92@mail.ru>
+Date:   Tue Mar 8 00:28:16 2022 +0300
+
+    Final commit
+
+[33mcommit 8f96c5ee7e1c3a988337bc5cc25e8fdb9e0c708c[m
+Author: alexeilisenkov <alexlisenkov92@mail.ru>
+Date:   Sun Feb 27 19:57:23 2022 +0300
+
+    1 commit

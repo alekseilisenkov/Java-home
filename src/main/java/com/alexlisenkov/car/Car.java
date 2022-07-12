@@ -1,6 +1,7 @@
 package com.alexlisenkov.car;
 
 public class Car {
+
     String color;
     int maxSpeed;
     int fuelConsumption;
@@ -53,11 +54,4 @@ public class Car {
             System.out.println("Экономичный");
         }
     }
-
 }
-
-
-
-
-
-

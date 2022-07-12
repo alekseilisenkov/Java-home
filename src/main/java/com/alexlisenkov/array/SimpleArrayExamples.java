@@ -2,7 +2,6 @@ package com.alexlisenkov.array;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 public class SimpleArrayExamples {
@@ -26,6 +25,5 @@ public class SimpleArrayExamples {
 
         System.out.println(stringList.get(0));
         System.out.println(stringList.contains("Spring"));
-
     }
 }
