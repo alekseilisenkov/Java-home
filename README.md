@@ -1,6 +1,5 @@
-## Практика с использованием Коллекций:
+## Collection's usage practise such as:
 
-### ArrayList, HashSet, HashMap
+#### ArrayList, HashSet, HashMap
 
-
-## Практика создания классов, методов, объектов класса.
+#### Also practise of creating classes, method's, subjects of classes.
