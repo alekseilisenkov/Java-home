@@ -2,4 +2,4 @@
 
 #### ArrayList, HashSet, HashMap
 
-#### Also practise of creating classes, method's, subjects of classes.
+#### Also practise of creating: classes, method's, subjects of classes.
