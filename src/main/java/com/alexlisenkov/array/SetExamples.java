@@ -24,7 +24,5 @@ public class SetExamples {
         System.out.println("Размер алфавита: " + alphabet2.size() + " символов.\n" + "\"Алфавит по порядку\"\n");
         for (HashMap.Entry<Integer, String> entries : alphabet2.entrySet())
             System.out.println(entries.getKey() + " - " + entries.getValue());
-
-
     }
 }

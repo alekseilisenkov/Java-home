@@ -6,6 +6,7 @@ public class Main {
         Car nissan = new Car("green", 180, 12, "almera", false);
         Car avtovas = new Car("green", 120, 11, "largus", false);
         Car toyota = new Car("black", 15, 200, "crown", true);
+        Car mitsubisi = new Car();
 
         boolean safetyOfNissan = nissan.isCarSafe();
         boolean safetyOfAvtovas = avtovas.isCarSafe();
